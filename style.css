@@ -1,0 +1,44 @@
+body {
+color: white;
+background: black;
+margin: 0px
+font-family: "Bodoni Moda SC", serif;
+}
+
+header{
+ border-bottom:solid 2px rebeccapurple;
+padding: 20px;
+ font-size: 30px;
+}
+ .chamada{
+    padding: bottom 80px;: ;
+    padding-top: 80px;
+ display: flex;
+ justify-content: center;
+h1{ font-size: 40px;}
+ }
+ .chamad{
+    margin-right: 8%;
+ }
+img{
+height: 200px
+
+}
+
+.iavideos{
+display: flex;
+ overflow-x: auto;
+ garp: 10px
+}
+.videos{
+
+padding-left: 20px;
+padding-right: 20px;
+}
+.iavideos img {
+   opacity: 0.5;
+   height: 200px;
+}
+.iavideos img:hover {
+   opacity: 1.0;
+}
